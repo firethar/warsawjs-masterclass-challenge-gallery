@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'warsawjs-masterclass-challenge-gallery';
+  title = 'WarsawJS - Angular Masterclass';
+  subTitle = 'Challenge 4 : Gallery';
 }
